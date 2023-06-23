@@ -8,6 +8,9 @@ The tech blog web application is a platform for tech enthusiasts to share their 
 
 ## Screenshot
 
+![Home Post](https://github.com/TThienT/Mod_14-Tech-Blog/assets/125310070/15645ed9-d3ce-4eb9-9cb3-f43c1de61d7d)
+
+![New Post](https://github.com/TThienT/Mod_14-Tech-Blog/assets/125310070/8a310839-3dc7-406a-b9dc-7bb0163d7e4b)
 
 
 ## Usage
