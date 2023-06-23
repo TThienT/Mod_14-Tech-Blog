@@ -4,15 +4,17 @@
 
 
 ## Description
-
-
+The tech blog web application is a platform for tech enthusiasts to share their knowledge and experiences. Users can create accounts, write blog posts, and interact with others. The interface is easy to use and supports formatting options. Posts can include images, code snippets, and media. The homepage lists published posts, and users can filter them by categories, tags, and dates. Comments can be left on posts, and users can like, share, and search for specific topics. User profiles show information and published posts. The app is built using frameworks like Django or Node.js, and the frontend uses HTML, CSS, and JavaScript with React or Vue.js. It can be deployed securely to a web server or cloud platform.
 
 ## Screenshot
 
 
 
 ## Usage
-
+-Login or sign up
+-Post a blog
+-Edit or Delete in Dashboard
+-View in Home Screen all blog posts
 
 
 ## Installation
