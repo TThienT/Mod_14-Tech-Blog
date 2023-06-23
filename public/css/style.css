@@ -1,0 +1,163 @@
+:root {
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --font-size-base: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: var(--secondary-color);
+  line-height: 1.5;
+  font-size: var(--font-size-base);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  margin: 0;
+  color: var(--primary-color);
+  line-height: 1.2;
+}
+
+h2 a:visited {
+  color: var(--primary-color);
+}
+
+h2 a {
+  text-decoration: none;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+main {
+  width: 100%;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 14px;
+}
+
+input {
+  width: 100%;
+  border: 1px solid var(--secondary-color);
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.card-header h2 {
+  color: var(--secondary-color);
+}
+
+.btn {
+  font-size: 14px;
+  text-decoration: none;
+  padding: 10px 20px;
+  width: auto;
+  display: inline-block;
+  margin: 5px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: var(--primary-color);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.btn-inline {
+  display: inline-block;
+}
+
+.navbar {
+  width: 100%;
+  position: fixed;
+  background-color: var(--primary-color);
+}
+
+.nav-item {
+  display: inline-block;
+}
+
+.nav-item a {
+  padding: 10px 15px;
+  background-color: var(--primary-color);
+  color: #fff;
+  text-decoration: none;
+}
+
+.hero {
+  padding: 50px;
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.app-title {
+  font-size: 24px;
+  background-color: var(--secondary-color);
+  color: #fff;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.list-group {
+  padding: 10px;
+}
+
+.list-item {
+  padding: 10px;
+}
+
+.list-item:hover {
+  background-color: #f8f9fa;
+}
+
+.footer a {
+  display: inline-block;
+  padding: 5px;
+  background-color: var(--secondary-color);
+  color: #fff;
+  border-radius: 5px;
+}
+
+.card {
+  margin: 10px;
+  border: 1px solid var(--secondary-color);
+  padding: 10px;
+  color: var(--secondary-color);
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-input {
+  width: 100%;
+  border: 1px solid var(--secondary-color);
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.form-textarea {
+  width: 100%;
+  border: 1px solid var(--secondary-color);
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 8px;
+}
